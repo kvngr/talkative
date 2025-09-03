@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
+  "eslint.useFlatConfig": true,
+  "vitest.disableWorkspaceWarning": true
+}
